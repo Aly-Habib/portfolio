@@ -45,6 +45,7 @@ I completed ITI summer training in Business Intelligence, covering SQL, database
 *	Data Warehousing Concepts
 *	Introduction to Data Engineering - Understanding Data Engineering
 *	Introduction to Snowflake
+
 ### Coursera courses
 *	Delivering Quality Work with Agility
 *	Introduction to Data Engineering 
