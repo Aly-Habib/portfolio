@@ -37,16 +37,17 @@ I completed ITI summer training in Business Intelligence, covering SQL, database
 * Attention to Detail
 * Strong Work Ethic
 
-## CERTIFICATIONS AND COURSES 
-•	Introduction to Relational Databases in SQL						at DataCamp
-•	Introduction to SQL - Intermediate SQL - Joining Data in SQL
-•	Introduction to Python - Python Toolbox - Intermediate Python - Introduction to Python for Developers
-•	Data Warehousing Concepts
-•	Introduction to Data Engineering - Understanding Data Engineering
-•	Introduction to Snowflake
-•	Delivering Quality Work with Agility						at Coursera
-•	Introduction to Data Engineering 
-•	Hands-on Introduction to Linux Commands and Shell Scripting
+## CERTIFICATIONS AND COURSES
+### DataCamp courses ((Check it)[])
+*	Introduction to Relational Databases in SQL						at DataCamp
+*	Introduction to SQL - Intermediate SQL - Joining Data in SQL
+*	Introduction to Python - Python Toolbox - Intermediate Python - Introduction to Python for Developers
+*	Data Warehousing Concepts
+*	Introduction to Data Engineering - Understanding Data Engineering
+*	Introduction to Snowflake
+*	Delivering Quality Work with Agility						at Coursera
+*	Introduction to Data Engineering 
+*	Hands-on Introduction to Linux Commands and Shell Scripting
 
 ## Languages
 *	English
