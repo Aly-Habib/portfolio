@@ -10,7 +10,7 @@ Obtained a very good with honors (3.14) Grade.
 I completed ITI summer training in Business Intelligence, covering SQL, database design, data warehousing, ETL, and SQL Server services (SSIS, SSAS, SSRS). This training provided valuable knowledge and hands-on experience, including designing a database from requirements gathering to SQL code implementation and basic data warehouse design. 
 
 ## Work Experiences
-### Military Service - Backend Engineer • Jan  2024 – Dec  2024: I do the following 
+### Military Service - Backend Engineer • Jan  2024 – Dec  2024: I did the following 
 *	Gather and analyze requirements to design a full-stack application from scratch.
 *	Develop the backend using Node.js with Express, implement RESTful APIs to handle data transactions.
 *	Utilize MongoDB for database management, create schemas and ensuring data consistency and security.
