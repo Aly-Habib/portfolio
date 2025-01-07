@@ -11,31 +11,31 @@ I completed ITI summer training in Business Intelligence, covering SQL, database
 
 ## Work Experiences
 ### Military Service - Backend Engineer • Jan  2024 – Dec  2024: I do the following 
-•	Gather and analyze requirements to design a full-stack application from scratch.
-•	Develop the backend using Node.js with Express, implement RESTful APIs to handle data transactions.
-•	Utilize MongoDB for database management, create schemas and ensuring data consistency and security.
-•	Implement server-side logic to optimize data storage, retrieval, and user interaction with the app.
-•	Integrate front-end and back-end components, ensure seamless communication and responsive performance.
-•	Conduct testing and debugging to ensure high-quality application functionality and user experience.
-•	Collaborate closely with stakeholders throughout the project to meet requirements and fix bugs. 
+*	Gather and analyze requirements to design a full-stack application from scratch.
+*	Develop the backend using Node.js with Express, implement RESTful APIs to handle data transactions.
+*	Utilize MongoDB for database management, create schemas and ensuring data consistency and security.
+*	Implement server-side logic to optimize data storage, retrieval, and user interaction with the app.
+*	Integrate front-end and back-end components, ensure seamless communication and responsive performance.
+*	Conduct testing and debugging to ensure high-quality application functionality and user experience.
+*	Collaborate closely with stakeholders throughout the project to meet requirements and fix bugs. 
 
 ## Technical Skills
-•	Computer science fundamentals (OOP, data structure, algorithms, ..) 
-•	SQL (PostgreSQL , MySQL, Microsoft SQL Server) 
-•	Python 
-•	Database design and data modeling concepts
-•	Basic knowledge data Warehousing
-•	ETL design (Data pipelines design - SQL Server Analysis Services (SSAS) - SQL Server Integration Services (SSIS) )
-•	Basic NoSQL (MongoDB)
-•	Basic Linux Commands and Shell scripting 
+*	Computer science fundamentals (OOP, data structure, algorithms, ..) 
+*	SQL (PostgreSQL , MySQL, Microsoft SQL Server) 
+*	Python (Pandas, NumPy)
+*	Database design and data modeling concepts
+*	Basic knowledge data Warehousing
+*	ETL design (Data pipelines design - SQL Server Analysis Services (SSAS) - SQL Server Integration Services (SSIS) )
+*	Basic NoSQL (MongoDB)
+*	Basic Linux Commands and Shell scripting 
 
 ## Soft Skills
 * Problem-Solving
 * Effective Communication
--- Team Player/Collaboration
--- Critical Thinking
--- Attention to Detail
--- Strong Work Ethic
+* Team Player/Collaboration
+* Critical Thinking
+* Attention to Detail
+* Strong Work Ethic
 
 ## CERTIFICATIONS AND COURSES 
 •	Introduction to Relational Databases in SQL						at DataCamp
@@ -49,6 +49,6 @@ I completed ITI summer training in Business Intelligence, covering SQL, database
 •	Hands-on Introduction to Linux Commands and Shell Scripting
 
 ## Languages
-•	English
-•	Arabic (Native speaking)
+*	English
+*	Arabic (Native speaking)
 
