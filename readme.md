@@ -38,7 +38,7 @@ I completed ITI summer training in Business Intelligence, covering SQL, database
 * Strong Work Ethic
 
 ## CERTIFICATIONS AND COURSES
-### DataCamp courses ((Check it)[])
+### DataCamp courses ((Check it)[https://www.datacamp.com/portfolio/ah2966629])
 *	Introduction to Relational Databases in SQL						at DataCamp
 *	Introduction to SQL - Intermediate SQL - Joining Data in SQL
 *	Introduction to Python - Python Toolbox - Intermediate Python - Introduction to Python for Developers
