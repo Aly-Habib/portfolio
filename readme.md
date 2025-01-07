@@ -30,8 +30,8 @@ I completed ITI summer training in Business Intelligence, covering SQL, database
 •	Basic Linux Commands and Shell scripting 
 
 ## Soft Skills
--- Problem-Solving
--- Effective Communication
+* Problem-Solving
+* Effective Communication
 -- Team Player/Collaboration
 -- Critical Thinking
 -- Attention to Detail
