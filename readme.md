@@ -3,8 +3,8 @@
 I am a recent computer science graduate (2023) from Helwan University, passionate about data-driven fields such as data engineering and database engineering with good computer science fundamentals. I am actively seeking a challenging role that allows me to leverage my skills in SQL, Python, data management, ETL and data warehousing. I enjoy solving complex problems to drive data-driven outcomes within organizations. My goal is to continuously learn and make meaningful contributions in the data industry.
 
 ## Education
-### Bachelor of Computer Science and Artificial Intelligence, Helwan University ( 2019 - 2023 )
-Obtained a very good with honors (3.14) Grade.
+### Bachelor of Computer Science and Artificial Intelligence, Helwan University (2019 - 2023)
+Obtained a very good with honors (3.14).
 
 ### Summer training at the Information Technology Institute (ITI) about business intelligence (Aug, 2023–Sep, 2023). 
 I completed ITI summer training in Business Intelligence, covering SQL, database design, data warehousing, ETL, and SQL Server services (SSIS, SSAS, SSRS). This training provided valuable knowledge and hands-on experience, including designing a database from requirements gathering to SQL code implementation and basic data warehouse design. 
