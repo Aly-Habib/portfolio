@@ -37,6 +37,21 @@ I completed ITI summer training in Business Intelligence, covering SQL, database
 * Attention to Detail
 * Strong Work Ethic
 
+##Projects
+### 1-	Company Database Design Project [GitHub Link](https://github.com/Aly-Habib/Database-Design-and-SQL/tree/bed03c84a70dba4022bac7106bb54707c4425b36/Case%201%20company%20design)
+*	Designed and implemented a comprehensive database schema for company and project management system from the given documentation 
+*	Created Entity-Relationship (ER) diagram modeling complex relationships including departments, employees, projects, and dependents
+*	Implemented key business rules and constraints for data integrity (employee-department assignments, project management, supervision hierarchy)
+*	Finally implemented the design using SQL.
+*	Tech Stack: Database Design, ER Modeling, SQL, Relational Database concepts
+
+### 2-	NYC Airbnb Data Analysis Project [GitHub Link](https://github.com/Aly-Habib/NYC-Airbnb-Data-Analysis-Project)
+*	Downloaded the dataset from Kaggle into Jupyter notebook
+*	Explored the dataset to check the quality and solve the issues. 
+*	Cleaned the dataset through handling missing values, duplicate data and data types.
+*	Did exploratory data analysis (EDA) through statistical overview and visualizing key variables.
+*	Found the relationships between key variables and answered some questions. 
+
 ## CERTIFICATIONS AND COURSES
 ### DataCamp courses ([Check it](https://www.datacamp.com/portfolio/ah2966629))
 *	Introduction to Relational Databases in SQL
