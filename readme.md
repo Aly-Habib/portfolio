@@ -37,7 +37,7 @@ I completed ITI summer training in Business Intelligence, covering SQL, database
 * Attention to Detail
 * Strong Work Ethic
 
-##Projects
+## Projects
 ### 1-	Company Database Design Project [GitHub Link](https://github.com/Aly-Habib/Database-Design-and-SQL/tree/bed03c84a70dba4022bac7106bb54707c4425b36/Case%201%20company%20design)
 *	Designed and implemented a comprehensive database schema for company and project management system from the given documentation 
 *	Created Entity-Relationship (ER) diagram modeling complex relationships including departments, employees, projects, and dependents
