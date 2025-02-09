@@ -1,8 +1,10 @@
 title: Ali Ahmed Habib
 description: >-
-  <a href="https://www.linkedin.com/in/ali-ahmed-habib-8483371b0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue"/></a> 
+  <a href="https://www.linkedin.com/in/aliahmedhabib/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue"/></a> 
   <br>
   <a href="mailto:eng.ali.ahmed00@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red"/> eng.ali.ahmed00@gmail.com</a>
+  <br>
+  <a href="https://github.com/Aly-Habib" target="_blank"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github"/></a>
   <br>
   <a href="tel:+201021418491"><img src="https://img.shields.io/badge/Phone-%2B201021418491-green"/></a>
   <br>
@@ -13,8 +15,6 @@ description: >-
   <a href="https://www.hackerrank.com/profile/ah2966629" target="_blank"><img src="https://img.shields.io/badge/HackerRank-Profile-2EC866"/></a> 
   <br>
   <a href="https://www.coursera.org/user/cb80a9d8cdddb4622219fa3b536b75b7" target="_blank"><img src="https://img.shields.io/badge/Coursera-Profile-0056D2"/></a>
-  <br>
-  <a href="https://github.com/Aly-Habib" target="_blank"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github"/></a>
 logo: "/image.png"
 show_download: false
 theme: jekyll-theme-minimal
