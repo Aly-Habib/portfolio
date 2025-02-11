@@ -6,8 +6,6 @@ I am a recent computer science graduate (2023) from Helwan University, passionat
 ### Bachelor of Computer Science and Artificial Intelligence, Helwan University (2019 - 2023)
 Obtained a very good with honors (3.14).
 
-### Summer training at the Information Technology Institute (ITI) about business intelligence (Aug, 2023–Sep, 2023). 
-I completed ITI summer training in Business Intelligence, covering SQL, database design, data warehousing, ETL, and SQL Server services (SSIS, SSAS, SSRS). This training provided valuable knowledge and hands-on experience, including designing a database from requirements gathering to SQL code implementation and basic data warehouse design. 
 
 ## Work Experiences
 ### Military Service - Backend Engineer • Jan  2024 – Dec  2024: I did the following 
@@ -18,6 +16,10 @@ I completed ITI summer training in Business Intelligence, covering SQL, database
 *	Integrate front-end and back-end components, ensure seamless communication and responsive performance.
 *	Conduct testing and debugging to ensure high-quality application functionality and user experience.
 *	Collaborate closely with stakeholders throughout the project to meet requirements and fix bugs. 
+
+### Summer training at the Information Technology Institute (ITI) about business intelligence (Aug, 2023–Sep, 2023). 
+I completed ITI summer training in Business Intelligence, covering SQL, database design, data warehousing, ETL, and SQL Server services (SSIS, SSAS, SSRS). This training provided valuable knowledge and hands-on experience, including designing a database from requirements gathering to SQL code implementation and basic data warehouse design. 
+
 
 ## Technical Skills
 *	Computer science fundamentals (OOP, data structure, algorithms, ..) 
